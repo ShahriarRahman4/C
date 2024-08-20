@@ -8,7 +8,7 @@ int d = 5+2/2*3 ;//8
 printf("%d\n",a);
 printf("%d\n",b);
 printf("%d\n",c);
-printf("%d\n",d);
+printf("%d\n",d);  
 
 
 return 0;
