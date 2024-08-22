@@ -7,9 +7,7 @@ int main()
     float price;
     printf("Enter the price: ");
     scanf("%f", &price);
-    
-    calculateprice(price); // Pass the price variable here
-
+    calculateprice(price); //connect
     return 0;
 }
 

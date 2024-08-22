@@ -14,7 +14,7 @@ if(num%2==0)
     
 }
 else
-{
+{  
     printf("This is an odd number\n");
 }
 }
