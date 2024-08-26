@@ -15,7 +15,7 @@ struct student s1 = {122 , 3.5  , "Rifat"};
 printf("Student roll = %d\n ",s1.roll);
 
 struct student *ptr = &s1;
-printf("Student roll = %d\n",(*ptr).roll);
+printf("Student roll = %d\n",(*ptr).roll); 
 
 printf("Student ->roll = %d\n",ptr->roll);
 printf("Student ->name = %s\n",ptr->name);
